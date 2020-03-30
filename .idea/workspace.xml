@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30cda4b9-09d9-481f-ba0e-84ac59a2077e" name="Default Changelist" comment="" />
+    <list default="true" id="30cda4b9-09d9-481f-ba0e-84ac59a2077e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js基础/源码.md" beforeDir="false" afterPath="$PROJECT_DIR$/js基础/源码.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +26,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RCK5UoEpcOLyEhoKR3I2wpnUjB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -33,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -158,8 +164,16 @@
       <workItem from="1585102822107" duration="33988000" />
       <workItem from="1585283115972" duration="68610000" />
       <workItem from="1585572786273" duration="4591000" />
-      <workItem from="1585577598491" duration="203000" />
+      <workItem from="1585577598491" duration="1187000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1585579340784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585579340784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +186,10 @@
       </list>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="795" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585125325482">
       <screen x="0" y="23" width="1440" height="821" />
@@ -181,6 +199,10 @@
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="775" y="164" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.814@0.23.1440.814" timestamp="1585102674107" />
+    <state x="3810" y="15" key="CommitChangelistDialog2" timestamp="1585579337783">
+      <screen x="1440" y="-565" width="3840" height="2137" />
+    </state>
+    <state x="3810" y="15" key="CommitChangelistDialog2/0.23.1440.821/1440.-565.3840.2137@1440.-565.3840.2137" timestamp="1585579337783" />
     <state width="2104" height="302" key="GridCell.Tab.0.bottom" timestamp="1585572617998">
       <screen x="1440" y="-565" width="3840" height="2137" />
     </state>
@@ -209,6 +231,10 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="616" y="177" key="IDE.errors.dialog/0.23.1440.825@0.23.1440.825" timestamp="1585186723463" />
+    <state x="3807" y="224" key="Vcs.Push.Dialog.v2" timestamp="1585579397460">
+      <screen x="1440" y="-565" width="3840" height="2137" />
+    </state>
+    <state x="3807" y="224" key="Vcs.Push.Dialog.v2/0.23.1440.821/1440.-565.3840.2137@1440.-565.3840.2137" timestamp="1585579397460" />
     <state x="824" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1585383458283">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
