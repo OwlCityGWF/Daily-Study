@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>dynamic programming</title>
+</head>
+<body>
+<script>
+	// 递归求斐波拉契数列
+	function recurFib (n) {
+		if (2 > n) return n;
+		return recurFib(n - 1) + recurFib(n - 2);
+	}
+	console.group('递归')
+	var time = Date.now();
+	console.log(recurFib(30));
+	console.log(Date.now() - time);
+	console.groupEnd()
+
+	// 动态规划
+	function dpFib (n) {
+		var arr = [0, 1]
+		if (n < 2) return arr[n]
+		for (var i = 2; i <= n; i++) {
+			arr[i] = arr[i - 1] + arr[i - 2];
+		}
+		return arr[n];
+	}
+	console.group('动态规划')
+	var time2 = Date.now();
+	console.log(dpFib(30));
+	console.log(Date.now() - time2);
+	console.groupEnd()
+
+	// 迭代
+	function iterFib (n) {
+		if (2 > n) return n;
+		var last = 1;
+		var lastLast = 0;
+		var now;
+		for (var i = 2; i <= n; i++) {
+			now = last + lastLast;
+			lastLast = last;
+			last = now;
+		}
+		return now;
+	}
+	console.group('迭代')
+	var time2 = Date.now();
+	console.log(iterFib(30));
+	console.log(Date.now() - time2);
+	console.groupEnd()
+
+	// 寻找最长公共子串，暴力解法
+	function longCompareStr(s1, s2) {
+		var index = 0; // 索引位置
+		var long = 0; // 总长度
+
+		var tempIndex = 0; // 临时索引位置
+		var tempLong = 0; // 临时长度
+
+		for(var i = 0; i < s1.length; i++) {
+			for(var j = 0; j < s2.length; j++) {
+				if (s1[i] == s2[j]) { // 找到第一次相同的位置
+					tempIndex = i; // 记录当前的索引位置
+					tempLong++; // 长度加 1
+					for(var k = 1; k < s1.length - i; k++) { // 再往下比对
+						if (s1[i+k] == s2[j+k]) {
+							tempLong++;
+						} else {
+							break;
+						}
+					}
+
+					if (tempLong > long) {
+						index = tempIndex;
+						long = tempLong;
+					}
+					tempLong = 0;
+				}
+			}
+		}
+		return s1.slice(index, index + long);
+	}
+	console.group('寻找最长公共子串');
+	console.log(longCompareStr('bccaqwerty', 'bbccqwerty2'));
+	console.groupEnd();
+
+	// 使用动态规划
+	function dpLongCompareStr (s1, s2) {
+		var index = 0; // 索引值位置
+		var long = 0; // 最长相等的字符数
+
+		var arr = [];
+		for (var i = 0; i < s1.length; i++) {
+			arr[i] = []
+			for (var j = 0; j < s2.length; j++) {
+				arr[i][j] = 0;
+			}
+		} // 以上代码初始化二维数组
+
+		for (var i = 0; i < s1.length; i++) {
+			for (var j = 0; j < s2.length; j++) {
+				if (s1[i] == s2[j]) {
+					if (i > 0 && j > 0) {
+						arr[i][j] = arr[i - 1][j - 1] + 1 // 核心代码
+					} else {
+						arr[i][j] = 1
+					}
+				}
+
+				if (arr[i][j] > long) {
+					long = arr[i][j];
+					index = i - long + 1; // 为什么要 +1，因为当 i = 0；long = 1；时，index = -1 不合理
+				}
+			}
+		}
+		console.log(arr)
+		return s1.slice(index, index + long) || null;
+	}
+
+	console.group('寻找最长公共子串 --- 动态规划');
+	console.log(dpLongCompareStr('adfsfdfsd', 'adfsfsdfsdf'));
+	console.groupEnd();
+
+	// 背包问题，递归求解
+	function max (a, b) {
+		return a > b ? a : b;
+	}
+	function recurBackpack (capacity, sizes, value, n) {
+		if (capacity == 0 || n == 0) return 0
+
+		if (sizes[n - 1] > capacity) {
+			return recurBackpack(capacity, sizes, value, n - 1)
+		} else {
+			return max(
+				value[n - 1] + recurBackpack(capacity - sizes[n - 1], sizes, value, n - 1),
+				recurBackpack(capacity, sizes, value, n - 1)
+			) // 对于当前这个选项，选或者不选，挑选一个最优解
+		}
+	}
+	var value = [13, 4, 5, 10, 11];
+	var sizes = [3, 4, 7, 8, 9];
+	var capacity = 16;
+	console.group('背包问题');
+	console.log(recurBackpack(capacity, sizes, value, sizes.length));
+	console.groupEnd();
+
+	// 背包问题，动态规划
+	function dpBackpack (capacity, sizes, value, n) {
+		var arr = [];
+		for (var i = 0; i <= n; i++) {
+			arr[i] = []
+		} // 初始化一个二维数组
+
+		for (var i = 0; i <= n; i++) {
+			for (var j = 0; j <= capacity; j++) {
+				if (i == 0 || j == 0) {
+					arr[i][j] = 0;
+				} else if (j >= sizes[i-1]) {
+					arr[i][j] = max(
+						value[i-1] + arr[i-1][j-sizes[i-1]],
+						arr[i-1][j]
+					)
+				} else {
+					arr[i][j] = arr[i-1][j]
+				}
+			}
+		}
+		console.log(arr)
+		return arr[n][capacity]
+	}
+
+	console.group('背包问题---动态规划');
+	console.log(dpBackpack(capacity, sizes, value, sizes.length));
+	console.groupEnd();
+</script>
+</body>
+</html>

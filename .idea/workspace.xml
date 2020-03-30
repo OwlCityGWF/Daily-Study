@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30cda4b9-09d9-481f-ba0e-84ac59a2077e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RCK5UoEpcOLyEhoKR3I2wpnUjB" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/框架" />
+      <recent name="$PROJECT_DIR$/leetCode" />
+      <recent name="$PROJECT_DIR$/数据结构" />
+      <recent name="$PROJECT_DIR$/js基础" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.abstractClass.js">
+    <configuration name="DP.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/数据结构/DP.js" working-dir="$PROJECT_DIR$/数据结构">
+      <method v="2" />
+    </configuration>
+    <configuration name="类型断言.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/TypeScript/类型断言.js" working-dir="$PROJECT_DIR$/TypeScript">
+      <method v="2" />
+    </configuration>
+    <configuration name="简单题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/简单题.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="无重复字符的最长子串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/无重复字符的最长子串.js" working-dir="$PROJECT_DIR$/leetCode">
+      <method v="2" />
+    </configuration>
+    <configuration name="链表的中间节点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/链表的中间节点.js" working-dir="$PROJECT_DIR$/leetCode">
+      <method v="2" />
+    </configuration>
+    <configuration name="链表反转.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/链表反转.js" working-dir="$PROJECT_DIR$/leetCode">
+      <method v="2" />
+    </configuration>
+    <configuration name="递归实现深拷贝.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/递归实现深拷贝.js" working-dir="$PROJECT_DIR$/node_modules">
+      <method v="2" />
+    </configuration>
+    <configuration name="简单题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/简单题.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="防抖和节流.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/防抖和节流.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="两数相加.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/两数相加.js" working-dir="$PROJECT_DIR$/leetCode">
+      <method v="2" />
+    </configuration>
+    <configuration name="无重复字符的最长子串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/无重复字符的最长子串.js" working-dir="$PROJECT_DIR$/leetCode">
+      <method v="2" />
+    </configuration>
+    <configuration name="内存机制.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js基础/内存机制.js" working-dir="$PROJECT_DIR$/js基础">
+      <method v="2" />
+    </configuration>
+    <configuration name="接雨水.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/接雨水.js" working-dir="$PROJECT_DIR$/leetCode">
+      <method v="2" />
+    </configuration>
+    <configuration name="介绍深度优先遍历和广度优先遍历.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/介绍深度优先遍历和广度优先遍历.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="算法手写.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法手写.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="abstractClass.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/TypeScript/abstractClass.js" working-dir="$PROJECT_DIR$/TypeScript">
+      <method v="2" />
+    </configuration>
+    <configuration name="event.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Node/event.js" working-dir="$PROJECT_DIR$/Node">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.类型断言.js" />
+        <item itemvalue="Node.js.event.js" />
+        <item itemvalue="Node.js.DP.js" />
+        <item itemvalue="Node.js.abstractClass.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30cda4b9-09d9-481f-ba0e-84ac59a2077e" name="Default Changelist" comment="" />
+      <created>1569165454872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569165454872</updated>
+      <workItem from="1569165456052" duration="4521000" />
+      <workItem from="1569204331093" duration="401000" />
+      <workItem from="1569204761953" duration="169000" />
+      <workItem from="1569209350745" duration="353000" />
+      <workItem from="1569210077705" duration="173000" />
+      <workItem from="1569210275380" duration="1058000" />
+      <workItem from="1569220970746" duration="447000" />
+      <workItem from="1569289528997" duration="3792000" />
+      <workItem from="1569308986548" duration="21059000" />
+      <workItem from="1569470883339" duration="5429000" />
+      <workItem from="1569546959816" duration="330000" />
+      <workItem from="1569548517353" duration="32996000" />
+      <workItem from="1570266264027" duration="191000" />
+      <workItem from="1570325736670" duration="10502000" />
+      <workItem from="1570518937270" duration="143000" />
+      <workItem from="1570523602396" duration="484000" />
+      <workItem from="1570528745255" duration="492000" />
+      <workItem from="1570532457603" duration="8555000" />
+      <workItem from="1570774084169" duration="19764000" />
+      <workItem from="1571016760344" duration="14006000" />
+      <workItem from="1571131609229" duration="890000" />
+      <workItem from="1571200439456" duration="2767000" />
+      <workItem from="1571213916289" duration="49000" />
+      <workItem from="1571213988158" duration="397000" />
+      <workItem from="1571214408681" duration="91000" />
+      <workItem from="1571214526838" duration="3977000" />
+      <workItem from="1571370124515" duration="681000" />
+      <workItem from="1571545613122" duration="104000" />
+      <workItem from="1571585096465" duration="20327000" />
+      <workItem from="1571926178934" duration="7774000" />
+      <workItem from="1572251571903" duration="290000" />
+      <workItem from="1572339483012" duration="747000" />
+      <workItem from="1572340254519" duration="297000" />
+      <workItem from="1572340624454" duration="608000" />
+      <workItem from="1585052534818" duration="5339000" />
+      <workItem from="1585102822107" duration="33988000" />
+      <workItem from="1585283115972" duration="68610000" />
+      <workItem from="1585572786273" duration="4591000" />
+      <workItem from="1585577598491" duration="203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/TypeScript/Class.js" />
+        <option value="$PROJECT_DIR$/TypeScript/类型断言.js" />
+        <option value="$PROJECT_DIR$/TypeScript/abstractClass.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="795" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585125325482">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="795" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.821@0.23.1440.821" timestamp="1585125325482" />
+    <state x="775" y="164" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585102674107">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="775" y="164" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.814@0.23.1440.814" timestamp="1585102674107" />
+    <state width="2104" height="302" key="GridCell.Tab.0.bottom" timestamp="1585572617998">
+      <screen x="1440" y="-565" width="3840" height="2137" />
+    </state>
+    <state width="520" height="136" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1585140794231" />
+    <state width="2104" height="302" key="GridCell.Tab.0.bottom/0.23.1440.827/1440.-565.3840.2137@1440.-565.3840.2137" timestamp="1585559691254" />
+    <state width="2104" height="302" key="GridCell.Tab.0.bottom/0.23.1440.828/1440.-565.3840.2137@1440.-565.3840.2137" timestamp="1585572617998" />
+    <state width="2104" height="302" key="GridCell.Tab.0.center" timestamp="1585572617996">
+      <screen x="1440" y="-565" width="3840" height="2137" />
+    </state>
+    <state width="520" height="136" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1585140794229" />
+    <state width="2104" height="302" key="GridCell.Tab.0.center/0.23.1440.827/1440.-565.3840.2137@1440.-565.3840.2137" timestamp="1585559691252" />
+    <state width="2104" height="302" key="GridCell.Tab.0.center/0.23.1440.828/1440.-565.3840.2137@1440.-565.3840.2137" timestamp="1585572617996" />
+    <state width="2104" height="302" key="GridCell.Tab.0.left" timestamp="1585572617995">
+      <screen x="1440" y="-565" width="3840" height="2137" />
+    </state>
+    <state width="520" height="136" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1585140794228" />
+    <state width="2104" height="302" key="GridCell.Tab.0.left/0.23.1440.827/1440.-565.3840.2137@1440.-565.3840.2137" timestamp="1585559691251" />
+    <state width="2104" height="302" key="GridCell.Tab.0.left/0.23.1440.828/1440.-565.3840.2137@1440.-565.3840.2137" timestamp="1585572617995" />
+    <state width="2104" height="302" key="GridCell.Tab.0.right" timestamp="1585572617997">
+      <screen x="1440" y="-565" width="3840" height="2137" />
+    </state>
+    <state width="520" height="136" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1585140794230" />
+    <state width="2104" height="302" key="GridCell.Tab.0.right/0.23.1440.827/1440.-565.3840.2137@1440.-565.3840.2137" timestamp="1585559691253" />
+    <state width="2104" height="302" key="GridCell.Tab.0.right/0.23.1440.828/1440.-565.3840.2137@1440.-565.3840.2137" timestamp="1585572617997" />
+    <state x="616" y="177" key="IDE.errors.dialog" timestamp="1585186723463">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="616" y="177" key="IDE.errors.dialog/0.23.1440.825@0.23.1440.825" timestamp="1585186723463" />
+    <state x="824" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1585383458283">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="824" y="173" width="670" height="676" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1585383458283" />
+  </component>
+</project>
