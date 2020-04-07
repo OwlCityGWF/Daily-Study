@@ -89,30 +89,6 @@
     <configuration name="类型断言.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/TypeScript/类型断言.js" working-dir="$PROJECT_DIR$/TypeScript">
       <method v="2" />
     </configuration>
-    <configuration name="无重复字符的最长子串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/无重复字符的最长子串.js" working-dir="$PROJECT_DIR$/leetCode">
-      <method v="2" />
-    </configuration>
-    <configuration name="链表的中间节点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/链表的中间节点.js" working-dir="$PROJECT_DIR$/leetCode">
-      <method v="2" />
-    </configuration>
-    <configuration name="链表反转.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/链表反转.js" working-dir="$PROJECT_DIR$/leetCode">
-      <method v="2" />
-    </configuration>
-    <configuration name="递归实现深拷贝.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/递归实现深拷贝.js" working-dir="$PROJECT_DIR$/node_modules">
-      <method v="2" />
-    </configuration>
-    <configuration name="简单题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/简单题.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="防抖和节流.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/防抖和节流.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="两数相加.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/两数相加.js" working-dir="$PROJECT_DIR$/leetCode">
-      <method v="2" />
-    </configuration>
-    <configuration name="简单题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js基础/简单题.js" working-dir="$PROJECT_DIR$/js基础">
-      <method v="2" />
-    </configuration>
     <configuration name="防抖和节流.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js基础/防抖和节流.js" working-dir="$PROJECT_DIR$/js基础">
       <method v="2" />
     </configuration>
@@ -138,6 +114,30 @@
       <method v="2" />
     </configuration>
     <configuration name="简单题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/简单题.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="无重复字符的最长子串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/无重复字符的最长子串.js" working-dir="$PROJECT_DIR$/leetCode">
+      <method v="2" />
+    </configuration>
+    <configuration name="链表的中间节点.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/链表的中间节点.js" working-dir="$PROJECT_DIR$/leetCode">
+      <method v="2" />
+    </configuration>
+    <configuration name="链表反转.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/链表反转.js" working-dir="$PROJECT_DIR$/leetCode">
+      <method v="2" />
+    </configuration>
+    <configuration name="递归实现深拷贝.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/递归实现深拷贝.js" working-dir="$PROJECT_DIR$/node_modules">
+      <method v="2" />
+    </configuration>
+    <configuration name="简单题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/简单题.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="防抖和节流.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/防抖和节流.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="两数相加.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/两数相加.js" working-dir="$PROJECT_DIR$/leetCode">
+      <method v="2" />
+    </configuration>
+    <configuration name="简单题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js基础/简单题.js" working-dir="$PROJECT_DIR$/js基础">
       <method v="2" />
     </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webpack/webpack-study/src/index.js" working-dir="$PROJECT_DIR$/webpack/webpack-study/src">
