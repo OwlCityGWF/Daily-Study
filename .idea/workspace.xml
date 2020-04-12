@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30cda4b9-09d9-481f-ba0e-84ac59a2077e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetCode/两两交换链表中的节点.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/合并K个排序链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/括号生成.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/框架/Angular/常见面试题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/框架/Vue/vue源码密探/Rollup编译vue的基本过程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/框架/Vue/vue源码密探/Vue入口.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/框架/Vue/vue源码密探/_render函数的实现.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/框架/Vue/vue源码密探/newVue发生了什么.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/框架/Vue/vue源码密探/实例挂载$mount.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/upath/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/upath/build/code/upath.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/upath/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/upath/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/upath/upath.d.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack/webpack/webpack-first/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/webpack/webpack-first/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/框架/Vue/常见面试题.md" beforeDir="false" afterPath="$PROJECT_DIR$/框架/Vue/常见面试题.md" afterDir="false" />
     </list>
@@ -206,7 +192,7 @@
       <workItem from="1586326644263" duration="476000" />
       <workItem from="1586327326600" duration="30815000" />
       <workItem from="1586543082585" duration="423000" />
-      <workItem from="1586573540219" duration="493000" />
+      <workItem from="1586573540219" duration="2969000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1585579340784</created>
@@ -345,10 +331,11 @@
       <screen x="1440" y="-565" width="3840" height="2137" />
     </state>
     <state x="3917" y="141" key="SettingsEditor/0.23.1440.821/1440.-565.3840.2137@1440.-565.3840.2137" timestamp="1585645328549" />
-    <state x="3807" y="224" key="Vcs.Push.Dialog.v2" timestamp="1585581665440">
-      <screen x="1440" y="-565" width="3840" height="2137" />
+    <state x="640" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586667818120">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="3807" y="224" key="Vcs.Push.Dialog.v2/0.23.1440.821/1440.-565.3840.2137@1440.-565.3840.2137" timestamp="1585581665440" />
+    <state x="640" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1586667818120" />
     <state x="658" y="170" width="703" height="518" key="find.popup" timestamp="1586324178080">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
