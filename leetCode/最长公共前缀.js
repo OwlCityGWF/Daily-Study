@@ -30,3 +30,39 @@ var longestCommonPrefix = function(strs) {
   }
   return ans;
 };
+
+/**
+ * 分治策略，归并思想
+ * 问题: 求多个字符串的最长公共前缀
+ * 分解成多个相似的子问题:求两个字符串的最长公共前缀.
+ * 子问题可以简单求解.
+ * 愿问题的解为子问题解的合并。
+ */
+var longestCommonPrefix = function (strs) {
+  if (strs === null || strs.length === 0) return "";
+  return LCPrefixRec(strs);
+}
+
+function LCPrefixRec(arr) {
+  let length = arr.length;
+  if (length === 1) {
+    return arr[0]
+  }
+
+  let mid = Math.floor(length / 2),
+      left  = arr.slice(0,mid),
+      right = arr.slice(mid, length);
+
+  return LCPrefixTwo(LCPrefixRec(left), LCPrefixRec(right));
+}
+
+function LCPrefixTwo(str1, str2) {
+  let j = 0;
+  for (; j < str1.length && j < str2.length; j++) {
+    if (str1.charAt(j) !== str2.charAt(j)) {
+      break;
+    }
+  }
+
+  return str1.substring(0,j)
+}
